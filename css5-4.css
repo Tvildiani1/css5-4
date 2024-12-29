@@ -1,0 +1,242 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fullMain {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+.headerBox {
+    display: flex;
+    width: 1440px;
+    padding: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+    height: 24px;
+}
+
+.headerBox {
+    font-size: 16px;
+    color: #5E6577;
+}
+header {
+    background-color: #F1EBFF;
+}
+.headerDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin: 0 auto;
+}
+
+.buyP {
+    color: #40D;
+}
+
+
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+
+}
+
+.oneMain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1040px;
+    
+
+}
+
+.cityBox {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 24px 8px 12px;
+    border-radius: 16px;
+    background: #F1EBFF;
+}
+
+.blueSearch {
+    border-radius: 16px;
+    background: #40D;   
+    padding: 16px 24px;
+}
+
+
+
+.houseBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 48px;
+    
+    
+}
+
+.picP {
+    width: 570px;
+    color: #5E6577;
+    font-size: 32px;
+
+}
+
+.threeContainer {
+    width: 1040px;
+    height: 48px;
+    border-bottom: 1px solid #CCD3E0;
+   
+}
+
+.displayBox {
+    display: flex;
+    justify-content: flex-start;
+    gap: 24px;
+  
+}
+.displayP {
+    color: #40D;
+}
+
+.fourContainer {
+    display: flex;
+    align-items: flex-start;
+
+    width: 1040px;
+    height: 266px;
+    stroke-width: 2px;
+    border-top: 2px solid #8CE900;
+
+    border-left: 2px solid #000;
+    border-right: 2px solid #155eef;
+    border-bottom: 2px solid #dd2590;
+    padding: 17px 23px 88px 25px;
+    
+}
+
+.yhaBox {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    justify-content: center;
+    
+
+}
+
+.nestledBox {
+    width: 448px;
+    color: #969696;
+    font-size: 14px;
+    height: 160px;
+}
+
+.yhaP {
+    width: 448px;
+    height: 28px;
+    color: #5E6577;
+    font-size: 24px;
+  
+}
+
+.fiveContainer {
+    display: flex;
+    align-items: center;
+    width: 1040px;
+    height: 272px;
+    border-radius: 8px;
+    border: 1px solid #40D;
+    background: #EDE6FC;
+    padding: 16px 24px;
+}
+
+.locatedBox {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    
+}
+
+.locatedP {
+    width: 488px;
+    height: 140px;
+    color: #3B3B3B;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.sacramentoP {
+    width: 488px;
+    height: 28px;
+    color: #5E6577;
+    font-size: 24px;
+}
+
+.sixContainer {
+    display: flex;
+    align-items: flex-end;
+    width: 1040px;
+    height: 272px;
+    border-radius: 8px;
+    border: 1px solid #004FE3;
+    padding: 16px 24px;
+}
+
+.hostelBox {
+    display: flex;
+    gap: 16px;
+    align-items: flex-end;
+    flex-shrink: 0;
+
+}
+
+.londonP {
+    width: 488px;
+    height: 28px;
+    color: #07081A;
+    font-size: 24px;
+
+}
+
+.courhoiseP {
+    width: 488px;
+    color: #155EEF;
+    font-size: 14px;
+    height: 140px;
+    display: flex;
+    align-items: end;
+
+}
+
+.endDiv {
+    display: flex;
+    gap: 193px;
+    
+}
+
+footer {
+    padding: 40px 200px 0px 928px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+footer {
+    border-top: 1px solid #F1EBFF;
+    margin-top: 94px;
+}
+
+footer > div {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
